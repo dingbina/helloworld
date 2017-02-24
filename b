@@ -1,2 +1,1 @@
 write b
-wrong
